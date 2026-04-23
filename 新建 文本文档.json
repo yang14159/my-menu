@@ -1,36 +1,304 @@
-{"name": "青椒炒腊肉", "flavor": "麻辣", "category": "荤", "meatType": "猪肉", "imageUrl": "https://pic1.imgdb.cn/item/69dcfef7f26639441e6c3c72.jpg"}
-{"name": "蒜蓉生蚝", "flavor": "清淡", "category": "荤", "meatType": "海鲜", "imageUrl": "https://pic1.imgdb.cn/item/69dcfef7f26639441e6c3c71.jpg"}
-{"name": "泡椒鱼籽", "flavor": "酸辣", "category": "荤", "meatType": "海鲜", "imageUrl": "https://pic1.imgdb.cn/item/69dcfef3f26639441e6c3c6b.jpg"}
-{"name": "冷吃牛肉", "flavor": "麻辣", "category": "荤", "meatType": "牛肉", "imageUrl": "https://pic1.imgdb.cn/item/69dcfef3f26639441e6c3c6d.jpg"}
-{"name": "虾仁炒玉米青豆", "flavor": "清淡", "category": "荤", "meatType": "海鲜", "imageUrl": "https://pic1.imgdb.cn/item/69dcfef3f26639441e6c3c70.jpg"}
-{"name": "凉皮", "flavor": "酸辣", "category": "素", "meatType": "无", "imageUrl": "https://pic1.imgdb.cn/item/69dcfef3f26639441e6c3c6c.jpg"}
-{"name": "凉拌土豆片", "flavor": "麻辣", "category": "素", "meatType": "无", "imageUrl": "https://pic1.imgdb.cn/item/69dcfef3f26639441e6c3c6e.jpg"}
-{"name": "荤豆花", "flavor": "清淡", "category": "荤", "meatType": "猪肉", "imageUrl": "https://pic1.imgdb.cn/item/69dcfef3f26639441e6c3c6f.jpg"}
-{"name": "金针菇培根卷", "flavor": "清淡", "category": "荤", "meatType": "猪肉", "imageUrl": "https://pic1.imgdb.cn/item/69dcfeeef26639441e6c3c65.jpg"}
-{"name": "蒜香小龙虾", "flavor": "清淡", "category": "荤", "meatType": "海鲜", "imageUrl": "https://pic1.imgdb.cn/item/69dcfeeef26639441e6c3c66.jpg"}
-{"name": "蒜蓉粉丝蒸鲍鱼", "flavor": "清淡", "category": "荤", "meatType": "海鲜", "imageUrl": "https://pic1.imgdb.cn/item/69dcfeedf26639441e6c3c61.jpg"}
-{"name": "菠萝咕咾肉", "flavor": "酸甜", "category": "荤", "meatType": "猪肉", "imageUrl": "https://pic1.imgdb.cn/item/69dcfeedf26639441e6c3c64.jpg"}
-{"name": "酸菜鸡", "flavor": "酸辣", "category": "荤", "meatType": "禽肉", "imageUrl": "https://pic1.imgdb.cn/item/69dcfeedf26639441e6c3c63.jpg"}
-{"name": "泡椒鲫鱼", "flavor": "酸辣", "category": "荤", "meatType": "海鲜", "imageUrl": "https://pic1.imgdb.cn/item/69dcfee8f26639441e6c3c5c.jpg"}
-{"name": "生煎包", "flavor": "清淡", "category": "荤", "meatType": "猪肉", "imageUrl": "https://pic1.imgdb.cn/item/69dcfee7f26639441e6c3c57.jpg"}
-{"name": "辣炒花甲肉", "flavor": "麻辣", "category": "荤", "meatType": "海鲜", "imageUrl": "https://pic1.imgdb.cn/item/69dcfee7f26639441e6c3c58.jpg"}
-{"name": "可乐鸡翅", "flavor": "酸甜", "category": "荤", "meatType": "禽肉", "imageUrl": "https://pic1.imgdb.cn/item/69dcfee7f26639441e6c3c59.jpg"}
-{"name": "香辣鸡翅", "flavor": "麻辣", "category": "荤", "meatType": "禽肉", "imageUrl": "https://pic1.imgdb.cn/item/69dcfee7f26639441e6c3c5b.jpg"}
-{"name": "毛血旺", "flavor": "麻辣", "category": "荤", "meatType": "猪肉", "imageUrl": "https://pic1.imgdb.cn/item/69dcfee7f26639441e6c3c5a.jpg"}
-{"name": "青椒鱼", "flavor": "麻辣", "category": "荤", "meatType": "海鲜", "imageUrl": "https://pic1.imgdb.cn/item/69dcfee1f26639441e6c3c53.jpg"}
-{"name": "天妇罗", "flavor": "清淡", "category": "荤", "meatType": "海鲜", "imageUrl": "https://pic1.imgdb.cn/item/69dcfee1f26639441e6c3c54.jpg"}
-{"name": "水煮鱼", "flavor": "麻辣", "category": "荤", "meatType": "海鲜", "imageUrl": "https://pic1.imgdb.cn/item/69dcfee0f26639441e6c3c50.jpg"}
-{"name": "爆炒鸡腿肉", "flavor": "麻辣", "category": "荤", "meatType": "禽肉", "imageUrl": "https://pic1.imgdb.cn/item/69dcfee0f26639441e6c3c52.jpg"}
-{"name": "烧烤豆干", "flavor": "麻辣", "category": "素", "meatType": "无", "imageUrl": "https://pic1.imgdb.cn/item/69dcfee0f26639441e6c3c4f.jpg"}
-{"name": "火山土豆泥", "flavor": "清淡", "category": "素", "meatType": "无", "imageUrl": "https://pic1.imgdb.cn/item/69dcfee0f26639441e6c3c51.jpg"}
-{"name": "火爆肥肠", "flavor": "麻辣", "category": "荤", "meatType": "猪肉", "imageUrl": "https://pic1.imgdb.cn/item/69dcfed8f26639441e6c3c4b.jpg"}
-{"name": "肝腰合炒", "flavor": "麻辣", "category": "荤", "meatType": "猪肉", "imageUrl": "https://pic1.imgdb.cn/item/69dcfed8f26639441e6c3c49.jpg"}
-{"name": "水煮牛肉+虾滑", "flavor": "麻辣", "category": "荤", "meatType": "牛肉", "imageUrl": "https://pic1.imgdb.cn/item/69dcfed8f26639441e6c3c47.jpg"}
-{"name": "炒时蔬", "flavor": "清淡", "category": "素", "meatType": "无", "imageUrl": "https://pic1.imgdb.cn/item/69dcfed8f26639441e6c3c48.jpg"}
-{"name": "麻辣双花", "flavor": "麻辣", "category": "荤", "meatType": "猪肉", "imageUrl": "https://pic1.imgdb.cn/item/69dcfed8f26639441e6c3c4a.jpg"}
-{"name": "重庆小面", "flavor": "麻辣", "category": "素", "meatType": "无", "imageUrl": "https://pic1.imgdb.cn/item/69dd046cf26639441e6c424e.jpg"}
-{"name": "羊肉汤", "flavor": "清淡", "category": "荤", "meatType": "羊肉", "imageUrl": "https://pic1.imgdb.cn/item/69dd046cf26639441e6c424d.jpg"}
-{"name": "肉沫蛋炒饭", "flavor": "清淡", "category": "荤", "meatType": "猪肉", "imageUrl": "https://pic1.imgdb.cn/item/69dd046cf26639441e6c424c.jpg"}
-{"name": "泡椒花甲肉", "flavor": "酸辣", "category": "荤", "meatType": "海鲜", "imageUrl": "https://pic1.imgdb.cn/item/69dd046cf26639441e6c424a.jpg"}
-{"name": "红烧蹄花", "flavor": "清淡", "category": "荤", "meatType": "猪肉", "imageUrl": "https://pic1.imgdb.cn/item/69dd046cf26639441e6c4249.jpg"}
-{"name": "狼牙土豆", "flavor": "麻辣", "category": "素", "meatType": "无", "imageUrl": "https://pic1.imgdb.cn/item/69dd046cf26639441e6c424b.jpg"}
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>今天吃什么 - 抽签助手</title>
+    <style>
+        :root {
+            --primary-green: #88a47c; /* 牛油果绿主色 */
+            --light-green: #e9f0e6;   /* 浅绿背景 */
+            --dark-green: #5b7052;    /* 深色文字/边框 */
+            --white: #ffffff;
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body { 
+            font-family: "PingFang SC", "Microsoft YaHei", sans-serif; 
+            background-color: var(--light-green);
+            color: var(--dark-green);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+        }
+
+        h2 { margin: 20px 0; letter-spacing: 2px; }
+
+        /* 筛选区 */
+        .filter-section {
+            width: 100%;
+            max-width: 500px;
+            background: var(--white);
+            padding: 15px;
+            border-radius: 15px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+            margin-bottom: 20px;
+        }
+        .filter-group { margin-bottom: 10px; }
+        .filter-title { font-size: 0.9rem; font-weight: bold; margin-bottom: 5px; color: var(--primary-green); }
+        .tags { display: flex; flex-wrap: wrap; gap: 8px; }
+        .tag {
+            padding: 5px 12px;
+            background: var(--light-green);
+            border-radius: 20px;
+            font-size: 0.85rem;
+            cursor: pointer;
+            transition: 0.3s;
+            border: 1px solid transparent;
+        }
+        .tag.active {
+            background: var(--primary-green);
+            color: var(--white);
+        }
+
+        /* 老虎机展示区 */
+        .slot-machine {
+            width: 300px;
+            height: 350px;
+            background: var(--white);
+            border: 8px solid var(--primary-green);
+            border-radius: 20px;
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+        }
+        .slot-container {
+            width: 100%;
+            height: 100%;
+            position: relative;
+            transition: transform 3s cubic-bezier(0.15, 0, 0.15, 1);
+        }
+        .slot-item {
+            width: 100%;
+            height: 350px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            background: white;
+        }
+        .slot-item img {
+            width: 220px;
+            height: 220px;
+            object-fit: cover;
+            border-radius: 15px;
+            border: 3px solid var(--light-green);
+        }
+        .slot-item p { margin-top: 15px; font-size: 1.2rem; font-weight: bold; }
+
+        /* 按钮 */
+        .draw-btn {
+            margin-top: 25px;
+            padding: 12px 50px;
+            background: var(--primary-green);
+            color: white;
+            border: none;
+            border-radius: 30px;
+            font-size: 1.1rem;
+            font-weight: bold;
+            cursor: pointer;
+            box-shadow: 0 4px 15px rgba(136, 164, 124, 0.4);
+        }
+        .draw-btn:active { transform: scale(0.95); }
+        .draw-btn:disabled { background: #ccc; cursor: not-allowed; }
+
+        /* 菜品库展示区 */
+        .gallery-title { margin-top: 50px; font-size: 1.1rem; }
+        .gallery {
+            width: 100%;
+            max-width: 800px;
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+            gap: 15px;
+            margin-top: 20px;
+        }
+        .gallery-card {
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+            text-align: center;
+            padding-bottom: 10px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        }
+        .gallery-card img { width: 100%; height: 120px; object-fit: cover; }
+        .gallery-card p { font-size: 0.85rem; margin-top: 5px; }
+    </style>
+</head>
+<body>
+
+    <h2>🥗 今天吃什么？</h2>
+
+    <div class="filter-section">
+        <div class="filter-group">
+            <div class="filter-title">荤素筛选</div>
+            <div class="tags" id="categoryTags">
+                <div class="tag active" data-type="category" data-val="全部">全部</div>
+                <div class="tag" data-type="category" data-val="荤">荤</div>
+                <div class="tag" data-type="category" data-val="素">素</div>
+            </div>
+        </div>
+        <div id="meatTypeSection" class="filter-group">
+            <div class="filter-title">肉类细分</div>
+            <div class="tags" id="meatTags">
+                <div class="tag active" data-type="meatType" data-val="全部">全部</div>
+                <div class="tag" data-type="meatType" data-val="猪肉">猪肉</div>
+                <div class="tag" data-type="meatType" data-val="牛肉">牛肉</div>
+                <div class="tag" data-type="meatType" data-val="羊肉">羊肉</div>
+                <div class="tag" data-type="meatType" data-val="禽肉">禽肉</div>
+                <div class="tag" data-type="meatType" data-val="海鲜">海鲜</div>
+            </div>
+        </div>
+        <div class="filter-group">
+            <div class="filter-title">口味</div>
+            <div class="tags" id="flavorTags">
+                <div class="tag active" data-type="flavor" data-val="全部">全部</div>
+                <div class="tag" data-type="flavor" data-val="麻辣">麻辣</div>
+                <div class="tag" data-type="flavor" data-val="酸辣">酸辣</div>
+                <div class="tag" data-type="flavor" data-val="酸甜">酸甜</div>
+                <div class="tag" data-type="flavor" data-val="清淡">清淡</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="slot-machine">
+        <div class="slot-container" id="slotContainer">
+            <div class="slot-item">
+                <img src="https://pic1.imgdb.cn/item/69dcfef7f26639441e6c3c72.jpg" alt="">
+                <p>准备好开饭了吗？</p>
+            </div>
+        </div>
+    </div>
+
+    <button class="draw-btn" id="drawBtn">开始抽签</button>
+
+    <h3 class="gallery-title">📖 我的菜单库</h3>
+    <div class="gallery" id="gallery"></div>
+
+    <script>
+        // 原始数据
+        const rawData = [
+            {"name": "青椒炒腊肉", "flavor": "麻辣", "category": "荤", "meatType": "猪肉", "imageUrl": "https://pic1.imgdb.cn/item/69dcfef7f26639441e6c3c72.jpg"},
+            {"name": "蒜蓉生蚝", "flavor": "清淡", "category": "荤", "meatType": "海鲜", "imageUrl": "https://pic1.imgdb.cn/item/69dcfef7f26639441e6c3c71.jpg"},
+            {"name": "泡椒鱼籽", "flavor": "酸辣", "category": "荤", "meatType": "海鲜", "imageUrl": "https://pic1.imgdb.cn/item/69dcfef3f26639441e6c3c6b.jpg"},
+            {"name": "冷吃牛肉", "flavor": "麻辣", "category": "荤", "meatType": "牛肉", "imageUrl": "https://pic1.imgdb.cn/item/69dcfef3f26639441e6c3c6d.jpg"},
+            {"name": "虾仁炒玉米青豆", "flavor": "清淡", "category": "荤", "meatType": "海鲜", "imageUrl": "https://pic1.imgdb.cn/item/69dcfef3f26639441e6c3c70.jpg"},
+            {"name": "凉皮", "flavor": "酸辣", "category": "素", "meatType": "无", "imageUrl": "https://pic1.imgdb.cn/item/69dcfef3f26639441e6c3c6c.jpg"},
+            {"name": "凉拌土豆片", "flavor": "麻辣", "category": "素", "meatType": "无", "imageUrl": "https://pic1.imgdb.cn/item/69dcfef3f26639441e6c3c6e.jpg"},
+            {"name": "荤豆花", "flavor": "清淡", "category": "荤", "meatType": "猪肉", "imageUrl": "https://pic1.imgdb.cn/item/69dcfef3f26639441e6c3c6f.jpg"},
+            {"name": "金针菇培根卷", "flavor": "清淡", "category": "荤", "meatType": "猪肉", "imageUrl": "https://pic1.imgdb.cn/item/69dcfeeef26639441e6c3c65.jpg"},
+            {"name": "蒜香小龙虾", "flavor": "清淡", "category": "荤", "meatType": "海鲜", "imageUrl": "https://pic1.imgdb.cn/item/69dcfeeef26639441e6c3c66.jpg"},
+            {"name": "蒜蓉粉丝蒸鲍鱼", "flavor": "清淡", "category": "荤", "meatType": "海鲜", "imageUrl": "https://pic1.imgdb.cn/item/69dcfeedf26639441e6c3c61.jpg"},
+            {"name": "菠萝咕咾肉", "flavor": "酸甜", "category": "荤", "meatType": "猪肉", "imageUrl": "https://pic1.imgdb.cn/item/69dcfeedf26639441e6c3c64.jpg"},
+            {"name": "酸菜鸡", "flavor": "酸辣", "category": "荤", "meatType": "禽肉", "imageUrl": "https://pic1.imgdb.cn/item/69dcfeedf26639441e6c3c63.jpg"},
+            {"name": "泡椒鲫鱼", "flavor": "酸辣", "category": "荤", "meatType": "海鲜", "imageUrl": "https://pic1.imgdb.cn/item/69dcfee8f26639441e6c3c5c.jpg"},
+            {"name": "生煎包", "flavor": "清淡", "category": "荤", "meatType": "猪肉", "imageUrl": "https://pic1.imgdb.cn/item/69dcfee7f26639441e6c3c57.jpg"},
+            {"name": "辣炒花甲肉", "flavor": "麻辣", "category": "荤", "meatType": "海鲜", "imageUrl": "https://pic1.imgdb.cn/item/69dcfee7f26639441e6c3c58.jpg"},
+            {"name": "可乐鸡翅", "flavor": "酸甜", "category": "荤", "meatType": "禽肉", "imageUrl": "https://pic1.imgdb.cn/item/69dcfee7f26639441e6c3c59.jpg"},
+            {"name": "香辣鸡翅", "flavor": "麻辣", "category": "荤", "meatType": "禽肉", "imageUrl": "https://pic1.imgdb.cn/item/69dcfee7f26639441e6c3c5b.jpg"},
+            {"name": "毛血旺", "flavor": "麻辣", "category": "荤", "meatType": "猪肉", "imageUrl": "https://pic1.imgdb.cn/item/69dcfee7f26639441e6c3c5a.jpg"},
+            {"name": "青椒鱼", "flavor": "麻辣", "category": "荤", "meatType": "海鲜", "imageUrl": "https://pic1.imgdb.cn/item/69dcfee1f26639441e6c3c53.jpg"},
+            {"name": "天妇罗", "flavor": "清淡", "category": "荤", "meatType": "海鲜", "imageUrl": "https://pic1.imgdb.cn/item/69dcfee1f26639441e6c3c54.jpg"},
+            {"name": "水煮鱼", "flavor": "麻辣", "category": "荤", "meatType": "海鲜", "imageUrl": "https://pic1.imgdb.cn/item/69dcfee0f26639441e6c3c50.jpg"},
+            {"name": "爆炒鸡腿肉", "flavor": "麻辣", "category": "荤", "meatType": "禽肉", "imageUrl": "https://pic1.imgdb.cn/item/69dcfee0f26639441e6c3c52.jpg"},
+            {"name": "烧烤豆干", "flavor": "麻辣", "category": "素", "meatType": "无", "imageUrl": "https://pic1.imgdb.cn/item/69dcfee0f26639441e6c3c4f.jpg"},
+            {"name": "火山土豆泥", "flavor": "清淡", "category": "素", "meatType": "无", "imageUrl": "https://pic1.imgdb.cn/item/69dcfee0f26639441e6c3c51.jpg"},
+            {"name": "火爆肥肠", "flavor": "麻辣", "category": "荤", "meatType": "猪肉", "imageUrl": "https://pic1.imgdb.cn/item/69dcfed8f26639441e6c3c4b.jpg"},
+            {"name": "肝腰合炒", "flavor": "麻辣", "category": "荤", "meatType": "猪肉", "imageUrl": "https://pic1.imgdb.cn/item/69dcfed8f26639441e6c3c49.jpg"},
+            {"name": "水煮牛肉+虾滑", "flavor": "麻辣", "category": "荤", "meatType": "牛肉", "imageUrl": "https://pic1.imgdb.cn/item/69dcfed8f26639441e6c3c47.jpg"},
+            {"name": "炒时蔬", "flavor": "清淡", "category": "素", "meatType": "无", "imageUrl": "https://pic1.imgdb.cn/item/69dcfed8f26639441e6c3c48.jpg"},
+            {"name": "麻辣双花", "flavor": "麻辣", "category": "荤", "meatType": "猪肉", "imageUrl": "https://pic1.imgdb.cn/item/69dcfed8f26639441e6c3c4a.jpg"},
+            {"name": "重庆小面", "flavor": "麻辣", "category": "素", "meatType": "无", "imageUrl": "https://pic1.imgdb.cn/item/69dd046cf26639441e6c424e.jpg"},
+            {"name": "羊肉汤", "flavor": "清淡", "category": "荤", "meatType": "羊肉", "imageUrl": "https://pic1.imgdb.cn/item/69dd046cf26639441e6c424d.jpg"},
+            {"name": "肉沫蛋炒饭", "flavor": "清淡", "category": "荤", "meatType": "猪肉", "imageUrl": "https://pic1.imgdb.cn/item/69dd046cf26639441e6c424c.jpg"},
+            {"name": "泡椒花甲肉", "flavor": "酸辣", "category": "荤", "meatType": "海鲜", "imageUrl": "https://pic1.imgdb.cn/item/69dd046cf26639441e6c424a.jpg"},
+            {"name": "红烧蹄花", "flavor": "清淡", "category": "荤", "meatType": "猪肉", "imageUrl": "https://pic1.imgdb.cn/item/69dd046cf26639441e6c4249.jpg"},
+            {"name": "狼牙土豆", "flavor": "麻辣", "category": "素", "meatType": "无", "imageUrl": "https://pic1.imgdb.cn/item/69dd046cf26639441e6c424b.jpg"}
+        ];
+
+        let currentFilters = { category: "全部", meatType: "全部", flavor: "全部" };
+        const slotContainer = document.getElementById('slotContainer');
+        const drawBtn = document.getElementById('drawBtn');
+
+        // 初始化：渲染全菜单
+        function initGallery() {
+            const gallery = document.getElementById('gallery');
+            rawData.forEach(item => {
+                const card = document.createElement('div');
+                card.className = 'gallery-card';
+                card.innerHTML = `<img src="${item.imageUrl}"><p>${item.name}</p>`;
+                gallery.appendChild(card);
+            });
+        }
+
+        // 标签点击事件
+        document.querySelectorAll('.tag').forEach(tag => {
+            tag.addEventListener('click', function() {
+                const type = this.dataset.type;
+                const val = this.dataset.val;
+
+                // 切换激活状态
+                this.parentNode.querySelectorAll('.tag').forEach(t => t.classList.remove('active'));
+                this.classList.add('active');
+
+                currentFilters[type] = val;
+
+                // 联动逻辑：如果选素菜，隐藏肉类细分
+                if (type === 'category') {
+                    const meatSec = document.getElementById('meatTypeSection');
+                    meatSec.style.opacity = (val === '素') ? '0.3' : '1';
+                    meatSec.style.pointerEvents = (val === '素') ? 'none' : 'auto';
+                }
+            });
+        });
+
+        // 抽签逻辑
+        function startDraw() {
+            // 根据筛选条件过滤数据
+            let filtered = rawData.filter(item => {
+                const cMatch = currentFilters.category === "全部" || item.category === currentFilters.category;
+                const fMatch = currentFilters.flavor === "全部" || item.flavor === currentFilters.flavor;
+                const mMatch = currentFilters.meatType === "全部" || item.meatType === currentFilters.meatType || currentFilters.category === "素";
+                return cMatch && fMatch && mMatch;
+            });
+
+            if (filtered.length === 0) {
+                alert("当前筛选条件下没有菜品，请换个口味试试~");
+                return;
+            }
+
+            drawBtn.disabled = true;
+            slotContainer.style.transition = 'none';
+            slotContainer.style.transform = 'translateY(0)';
+
+            // 构建随机队列（为了视觉上的滚动效果）
+            const rounds = 20; // 滚动圈数
+            let itemsHTML = '';
+            for (let i = 0; i < rounds; i++) {
+                const randomItem = filtered[Math.floor(Math.random() * filtered.length)];
+                itemsHTML += `<div class="slot-item"><img src="${randomItem.imageUrl}"><p>${randomItem.name}</p></div>`;
+            }
+            
+            // 最终中奖的结果
+            const resultItem = filtered[Math.floor(Math.random() * filtered.length)];
+            itemsHTML += `<div class="slot-item"><img src="${resultItem.imageUrl}"><p>${resultItem.name}</p></div>`;
+            
+            slotContainer.innerHTML = itemsHTML;
+
+            // 触发回流执行动画
+            setTimeout(() => {
+                const itemHeight = 350;
+                slotContainer.style.transition = 'transform 3s cubic-bezier(0.15, 0, 0.15, 1)';
+                slotContainer.style.transform = `translateY(-${(rounds) * itemHeight}px)`;
+            }, 50);
+
+            setTimeout(() => {
+                drawBtn.disabled = false;
+            }, 3100);
+        }
+
+        drawBtn.addEventListener('click', startDraw);
+        initGallery();
+    </script>
+</body>
+</html>
